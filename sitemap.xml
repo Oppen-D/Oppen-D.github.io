@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://oppend.top/post/27ab86eb.html</loc>
+    
+    <lastmod>2025-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://oppend.top/post/6e5c3ba8.html</loc>
+    
+    <lastmod>2025-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://oppend.top/post/8ccb325e.html</loc>
+    
+    <lastmod>2025-09-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://oppend.top/post/8614768.html</loc>
     
     <lastmod>2025-09-05</lastmod>
@@ -30,15 +57,6 @@
   
   <url>
     <loc>http://oppend.top/post/56a1db5a.html</loc>
-    
-    <lastmod>2025-09-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://oppend.top/post/6e5c3ba8.html</loc>
     
     <lastmod>2025-09-05</lastmod>
     
@@ -175,57 +193,64 @@
 
   <url>
     <loc>http://oppend.top/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>http://oppend.top/tags/OTA/</loc>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://oppend.top/tags/Matlab/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://oppend.top/tags/pandas/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://oppend.top/tags/numpy/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://oppend.top/tags/matplotlib/</loc>
-    <lastmod>2025-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oppend.top/tags/%E7%9F%A9%E9%98%B5%E6%B1%82%E5%AF%BC/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://oppend.top/tags/Python/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://oppend.top/tags/VNA/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oppend.top/tags/%E7%9F%A9%E9%98%B5%E6%B1%82%E5%AF%BC/</loc>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -234,28 +259,28 @@
   
   <url>
     <loc>http://oppend.top/categories/Wireless-Communications/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://oppend.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-09-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://oppend.top/categories/%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%84/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://oppend.top/categories/cs/</loc>
-    <lastmod>2025-09-05</lastmod>
+    <lastmod>2025-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://oppend.top/categories/%E6%B8%B8%E6%88%8F%E6%B5%8B%E8%AF%84/</loc>
+    <lastmod>2025-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
